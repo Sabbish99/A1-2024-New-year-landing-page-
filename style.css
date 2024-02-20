@@ -1,0 +1,77 @@
+body {
+    margin: 50px 150px 0px 150px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.header-info {
+
+    background-image: url(image/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+    color: rgb(229, 255, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 40px;
+    opacity: .8;
+
+}
+
+/* 65% off */
+.offer-section {
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0px 150px 100px 150px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.offer-section h1 {
+    color: red;
+}
+
+
+/* mid night party */
+.mid-night {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.midNightParty {
+    background-image: url(image/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+    color: rgb(229, 255, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    padding: 70px 140px;
+
+}
+
+.mid h1,
+h3 {
+    font-size: 3rem;
+}
