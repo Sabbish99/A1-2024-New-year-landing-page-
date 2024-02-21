@@ -179,14 +179,33 @@ h3 {
 
 
 
+/* awesome portfolio */
+.awesome-portfolio-1 {
 
+    display: flex;
+    justify-content: center;
+}
 
+.awesome-portfolio-2 {
+    max-width: 1320px;
+}
 
+.awesome-portfolio-2 h6 {
+    color: red;
+    font-size: 20px;
+}
 
+.awesome-portfolio-2 h1 {
 
+    font-size: 35px;
+}
 
+.awesome-portfolio-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-
+}
 
 
 
@@ -197,6 +216,7 @@ h3 {
     justify-content: center;
     align-items: center;
     margin-bottom: 100px;
+    margin-top: 100px;
 }
 
 .subscribe-2 {
