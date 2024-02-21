@@ -110,3 +110,31 @@ h3 {
     font-weight: 700;
     border: none;
 }
+
+
+/* coming soon start */
+.coming-soon {
+
+    margin: 100px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.coming-soon-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1320px;
+}
+
+.coming-soon-3 {
+
+    padding: 20px;
+}
+
+.coming-soon-3 img {
+    border: 20px solid rgb(227, 38, 38);
+    border-radius: 300px;
+    padding: 20px;
+}
