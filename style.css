@@ -1,5 +1,8 @@
 body {
-    margin: 50px 150px 0px 150px;
+    margin: 50px 0px 0px 0px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .header {
@@ -137,4 +140,123 @@ h3 {
     border: 20px solid rgb(227, 38, 38);
     border-radius: 300px;
     padding: 20px;
+}
+
+
+/* holidays sale start*/
+
+
+.holiday-sale-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.holiday-sale-2 {
+    max-width: 1320px;
+    text-align: center;
+}
+
+.holiday-sale-2 span {
+    color: #FF0000;
+}
+
+.holiday-sale-2 h1 {
+    font-size: 45px;
+}
+
+.holiday-sale-2 p {
+
+    font-size: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* subscribe newsletter start */
+.subscribe-1 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.subscribe-2 {
+
+
+    background-color: #ffeded;
+    border-radius: 15px;
+    max-width: 1320px;
+    text-align: center;
+    padding: 30px 100px;
+}
+
+.email-btn {
+    font-size: 18px;
+    color: rgb(60, 60, 60);
+    background-color: white;
+    border-radius: 50px 0px 0px 50px;
+    padding: 20px 300px 20px 20px;
+    border: none;
+}
+
+.subscribe-btn {
+    font-size: 20px;
+    padding: 20px 56px;
+    border-radius: 0px 50px 50px 0px;
+    color: white;
+    background-color: #FF0000;
+    border: none;
+
+}
+
+
+
+
+/* footer styles start */
+footer {
+
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+
+.footer-first-part {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.footer-second-part {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-second-part-1 {
+    font-size: 64px;
+}
+
+.footer-third-part {
+    display: flex;
+    justify-content: space-around;
 }
